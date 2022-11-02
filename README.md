@@ -12,9 +12,7 @@ PROJECT LINK(GITHUB REPOSITORY : https://github.com/rayapureddi/Frt--Prjct/
 
 
 
-
-
-EduWell is my project that is done as also called an online course, is any course taught online instead of in-person. Many ecourses are pre-recorded, but can also include many other components that create an engaging learning experience outside of a traditional classroom environment
+ONLINE THEATER is our project. A film, also called a movie or a motion picture, is a series of still photographs on film projected onto a screen using light in rapid succession. The optical phenomenon known as persistence of vision gives the illusion of actual, smooth, and continuous movement. As we love movies we created a website for movies . In this website we provide the some movies, shows and songs. 
 
 # Features
 -  Good UI
