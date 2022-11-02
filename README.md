@@ -4,7 +4,7 @@
 
 AZURE LINK : https://gray-plant-080e73b00.2.azurestaticapps.net
 
-YOUTUBE LINK : https://youtu.be/-vc79aJZNcM
+YOUTUBE LINK : https://youtu.be/Shsmg0_ZvEc
 
 PROJECT DEMO URL: https://rayapureddi.github.io/Frt--Prjct/
 
