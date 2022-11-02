@@ -63,24 +63,30 @@ EduWell is my project that is done as also called an online course, is any cours
 # Deployment  Screenshots
 
 - Azure Environment
-- ![azure](https://user-images.githubusercontent.com/85716910/198466082-e678fd3f-20d2-44c6-b86c-c516d4ba3682.PNG)
+
+- ![AZR Capt](https://user-images.githubusercontent.com/112306093/199579957-ad0431c8-3918-48d1-ad1b-c3d96dcf0c00.jpg)
 
 
 - Github Runtime Actions
-- ![keerthi](https://user-images.githubusercontent.com/85716910/198419187-b0398e18-3559-43b6-b656-ea37a3862f5c.PNG)
+
+- ![GITHUB act](https://user-images.githubusercontent.com/112306093/199579995-49e4e9dd-b76f-45e4-ab67-1f6dc2727647.jpg)
+
 
 # Project WorkFlow
 
-![workflow](https://user-images.githubusercontent.com/85716910/198467281-4b2e349b-3426-4c79-966a-05557f91100a.PNG)
+-![WRKFLOW file](https://user-images.githubusercontent.com/112306093/199580046-8a222148-4c2e-4be8-8e42-13854644fbfe.jpg)
 
  
 # Screenshots
-![keerthi jr frp pc cap](https://user-images.githubusercontent.com/85716910/197338213-1d7c86d4-9f9e-431a-b0ab-29bd9dbc6cdb.PNG)
-![keerthi jr frp mob cap](https://user-images.githubusercontent.com/85716910/197338218-a21d0704-a24e-463f-bc5f-5d23c52040b9.PNG)
+
+![PC capt](https://user-images.githubusercontent.com/112306093/199580108-66938627-e5d4-4540-8fc3-a5bc57069e75.jpg)
+
+![MOB capt](https://user-images.githubusercontent.com/112306093/199580148-1d3a2dd5-ea4c-4555-9f81-08a6eca95294.jpg)
 
 
 # About Us
 We are BTech pursuing Students,from 3rd year we considered this as problem as we facing the same situtaion regularly.
+
 - R Ganga Bhavani
 
 - K Praveen
