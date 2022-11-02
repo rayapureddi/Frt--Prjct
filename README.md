@@ -8,7 +8,7 @@ YOUTUBE LINK : https://youtu.be/-vc79aJZNcM
 
 PROJECT DEMO URL: https://rayapureddi.github.io/Frt--Prjct/
 
-PROJECT LINK(GITHUB REPOSITORY : https://github.com/keerthikorumilli/frtproject
+PROJECT LINK(GITHUB REPOSITORY : https://github.com/rayapureddi/Frt--Prjct/
 
 
 
