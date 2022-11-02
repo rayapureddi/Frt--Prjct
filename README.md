@@ -2,11 +2,11 @@
 
 
 
-AZURE LINK : https://ashy-stone-08d3a1f10.2.azurestaticapps.net
+AZURE LINK : https://gray-plant-080e73b00.2.azurestaticapps.net
 
 YOUTUBE LINK : https://youtu.be/-vc79aJZNcM
 
-PROJECT DEMO URL: https://keerthikorumilli.github.io/frtproject
+PROJECT DEMO URL: 
 
 
 PROJECT LINK(GITHUB REPOSITORY : https://github.com/keerthikorumilli/frtproject
@@ -81,7 +81,7 @@ EduWell is my project that is done as also called an online course, is any cours
 
 
 # About Us
-i am BTech pursuing Students,from 3rd year i considered this as problem as we facing the same situtaion regularly.
+We are BTech pursuing Students,from 3rd year we considered this as problem as we facing the same situtaion regularly.
 - R Ganga Bhavani
 
 - K Praveen
